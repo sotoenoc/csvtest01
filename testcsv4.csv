@@ -1,0 +1,115 @@
+id,description,price
+HT3000-D4,"4.3 inch 800x480, 4G + 512M + SD, 1 LAN (EtherNet Port), 1 USB, 2 COM, ",$299.00
+HT3000-D4E,"4.3 inch 800x480, 4G + 512M + SD, 1 LAN (EtherNet Port), 1 USB, 2 COM, Global 4G available",$598.00
+HT3000-D4W,"4.3 inch 800x480, 4G + 512M + SD, 1 LAN (EtherNet Port), 1 USB, 2 COM, WIFI available",$338.87
+HT3000-B7H,"7 inch 1024*600, 2G + 512M + SD, 1 LAN (EtherNet Port), 2 USB, 2 COM, ",$299.00
+HT3000-B7HE,"7 inch 1024*600, 4G + 512M + SD, 1 LAN (EtherNet Port), 2 USB, 2 COM, Global 4G available",$637.87
+HT3000-B7HW,"7 inch 1024*600, 4G + 512M + SD, 1 LAN (EtherNet Port), 2 USB, 3 COM, WIFI available",$338.87
+HT3000-B10,"10.1 inch 1024x600, 2G + 512M + SD, 1 LAN (EtherNet Port), 2 USB, 2 COM, ",$498.33
+HT3000-B10E,"10.1 inch 1024x600, 2G + 512M + SD, 1 LAN (EtherNet Port), 2 USB, 2 COM, Global 4G available",$857.13
+HT3000-B10W,"10.1 inch 1024x600, 2G + 512M + SD, 1 LAN (EtherNet Port), 2 USB, 2 COM, WIFI available",$538.20
+HT3000-D15,"15.6 inch 1920x1080, 4G + 1G + SD, 1 LAN (EtherNet Port), 2 USB, 3 COM, ","$1,495.00"
+HT3000-D15E,"15.6 inch 1920x1080, 4G + 1G + SD, 1 LAN (EtherNet Port), 2 USB, 3 COM, Global 4G available","$1,933.53"
+HT3000-D15W,"15.6 inch 1920x1080, 4G + 1G + SD, 1 LAN (EtherNet Port), 2 USB, 3 COM, WIFI available","$1,574.73"
+HT3000-D15EW,"15.6 inch 1920x1080, 4G + 1G + SD, 1 LAN (EtherNet Port), 2 USB, 3 COM, WIFI and Global 4G available","$2,013.27"
+H-BOX,"IoT BOX, 4G + 512M + SD, 2 LAN (EtherNet Port), 2 USB, 2 COM, WIFI available",$312.80
+H-BOX-E,"IoT BOX, 4G + 512M + SD, 2 LAN (EtherNet Port), 2 USB, 2 COM, WIFI and Global 4G/3G/2G available",$607.20
+H-BOX-M,"Cloud box, 2G + 256M, 1 LAN (EtherNet Port),1 COM, 8DI, WIFI available",$313.54
+H-BOX-M-E,"Cloud box, 2G + 256M, 1 LAN (EtherNet Port),1 COM, 8DI, WIFI available, Global 4G available",$553.30
+H-BOX-M pro,"Cloud box, 2G + 256M, 1 LAN (EtherNet Port),1 COM, 8digital points (DI/DO self-defined), WIFI available ",$351.11
+H-BOX-M-E pro,"Cloud box, 2G + 256M, 1 LAN (EtherNet Port),1 COM, 8digital points (DI/DO self-defined), WIFI available, Global Mobile 4G available",$590.16
+HCS-6X4Y-R,"HCS Main unit , 6 DI 4 DO (Relay) , TCP+485 communication ports , DC 24V, <4.8W, 3 modules available",$149.50
+HCS-6X4Y-TN,"HCS Main unit , 6 DI 4 DO (Transistor NPN) , TCP+485 communication ports , DC 24V, <4.8W, 3 modules available",$149.50
+HCS-6X4Y-TP,"HCS Main unit , 6 DI 4 DO (Transistor PNP) , TCP+485 communication ports , DC 24V, <4.8W, 3 modules available",$149.50
+HCS-8X8Y-R,"HCS Main unit , 8 DI 8 DO (Relay) , TCP+485 communication ports , DC 24V, <4.8W, 3 modules available",$174.42
+HCS-8X8Y-TN,"HCS Main unit , 8 DI 8 DO (Transistor NPN) , TCP+485 communication ports , DC 24V, <4.8W, 3 modules available",$174.42
+HCS-8X8Y-TP,"HCS Main unit , 8 DI 8 DO (Transistor PNP) , TCP+485 communication ports , DC 24V, <4.8W, 3 modules available",$174.42
+HCS-4X4Y4A-R,"HCS Main unit , 4 DI 4 DO (Relay) , 2 AI 2AO, TCP+485 communication ports , DC 24V, <3.6W, 3 modules available",$249.17
+HCS-4X4Y4A-TN,"HCS Main unit , 4 DI 4 DO (Transistor NPN) , 2 AI 2AO, TCP+485 communication ports , DC 24V, <3.6W, 3 modules available",$249.17
+HCS-4X4Y4A-TP,"HCS Main unit , 4 DI 4 DO (Transistor PNP) , 2 AI 2AO, TCP+485 communication ports , DC 24V, <3.6W, 3 modules available",$249.17
+HCG-8X8Y-R,"HCG Main Unit, 8 DI 8 DO (Relay), 2 Channels A/B phase 4points 200K pulse input,  TCP+485 communication ports, DC 24V, < 4.8W, 15 modules available",$236.71
+HCG-8X8Y-TN,"HCG Main Unit, 8 DI 8 DO (Transistor NPN), 2 Channels A/B phase 4points 200K pulse input,  2 Channels A/B phase 4points 200K pulse output, TCP+485 communication ports, DC 24V, < 4.8W, 15 modules available",$236.71
+HCG-8X8Y-TP,"HCG Main Unit, 8 DI 8 DO (Transistor PNP), 2 Channels A/B phase 4points 200K pulse input,  2 Channels A/B phase 4points 200K pulse output, TCP+485 communication ports, DC 24V, < 4.8W, 15 modules available",$236.71
+HCG-4X4Y4A-R,"HCG Main Unit, 4 DI 4 DO (Relay), 2 AI 2AO, 1 Channels A/B phase 4points 200K pulse input, TCP+485 communication ports, DC 24V, < 3.6W, 15 modules available",$299.00
+HCG-4X4Y4A-TN,"HCG Main Unit, 4 DI 4 DO (Transistor NPN), 2 AI 2AO, 1 Channels A/B phase 4points 200K pulse input, 1 Channels A/B phase 4points 200K pulse output, TCP+485 communication ports, DC 24V, < 3.6W, 15 modules available",$299.00
+HCG-4X4Y4A-TP,"HCG Main Unit, 4 DI 4 DO (Transistor PNP), 2 AI 2AO, 1 Channels A/B phase 4points 200K pulse input, 1 Channels A/B phase 4points 200K pulse output, TCP+485 communication ports, DC 24V, < 3.6W, 15 modules available",$299.00
+HCM-8X8Y-R,"HCM Main Unit, 8 DI 8 DO (Relay), 4 Channels A/B phase 4points 200K pulse input, TCP+485 communication ports, DC 24V, < 4.8W, 15 modules available",$348.84
+HCM-8X8Y-TN,"HCM Main Unit, 8 DI 8 DO (Transistor NPN), 4 Channels A/B phase 4points 200K pulse input, 4 Channels A/B phase 4points 200K pulse output, TCP+485 communication ports, DC 24V, < 4.8W, 15 modules available",$348.84
+HCM-8X8Y-TP,"HCM Main Unit, 8 DI 8 DO (Transistor PNP), 4 Channels A/B phase 4points 200K pulse input, 4 Channels A/B phase 4points 200K pulse output, TCP+485 communication ports, DC 24V, < 4.8W, 15 modules available",$348.84
+AE-8X,"8 DI, DC 24V, < 2.4W",$74.75
+AE-8Y-R,"8 DO (Relay), DC 24V, < 4.8W",$99.67
+AE-8Y-TN,"8 DO (Transistor NPN), DC 24V, < 4.8W",$99.67
+AE-8Y-TP,"8 DO (Transistor PNP), DC 24V, < 4.8W",$99.67
+AE-4X4Y-R,"4DI, 4 DO (Relay), DC 24V, < 2.4W",$87.21
+AE-4X4Y-TN,"4DI 4 DO (Transistor NPN), DC 24V, < 2.4W",$87.21
+AE-4X4Y-TP,"4DI 4 DO (Transistor PNP), DC 24V, < 2.4W",$87.21
+AE-16X,"16 DI, DC 24V, < 2.4W",$99.67
+AE-16Y-R,"16 DO (Relay), DC 24V, < 8.4W",$124.58
+AE-16Y-TN,"16 DO (Transistor NPN), DC 24V, < 8.4W",$124.58
+AE-16Y-TP,"16 DO (Transistor PNP), DC 24V, < 8.4W",$124.58
+AE-8X8Y-R,"8 DI 8 DO (Relay), DC 24V, < 4.8W",$112.13
+AE-8X8Y-TN,"8 DI 8 DO (Transistor NPN), DC 24V, < 4.8W",$112.13
+AE-8X8Y-TP,"8 DI 8 DO (Transistor PNP), DC 24V, < 4.8W",$112.13
+AE-4AD,"4AI, 12bit Conversion Accuracy, DC 24V, < 2.4W",$186.88
+AE-4DA,"4AO, 12bit Conversion Accuracy, DC 24V, < 2.4W",$186.88
+AE-2AD2DA,"2AI 2AO, 12bit Conversion Accuracy, DC 24V, < 2.4W",$186.88
+AE-8AD,"8AI, 12bit Conversion Accuracy, DC 24V, < 2.4W",$299.00
+AE-8DA,"8AO, 12bit Conversion Accuracy, DC 24V, < 3.6W",$299.00
+AE-4AD4DA,"4AI 4AO, 12bit Conversion Accuracy, DC 24V, < 3.6W",$299.00
+AE-4TC,"4 Thermocouple, 16bit Conversion Accuracy, DC 24V, < 2.4W",$174.42
+AE-4RC,"4 Thermal Resistance, 16bit Conversion Accuracy, DC 24V, < 2.4W",$186.88
+AE-8TC,"8 Thermocouple, 16bit Conversion Accuracy, DC 24V, < 2.4W",$299.00
+AE-4DT,"4 Channels digital temperature & humidity sensor, 9-12bit Conversion Accuracy, DC 24V, < 2.4W",$291.93
+AE-1C,"With isolution, 1 RS232/RS485 communication port. Power Supports Modbus RTU/ASCII, Freedom communication 
+protocol, 1200~115200bpS and 8,N,1, <2.4W",$112.13
+TE-16X,"16 DI, DC 24V, RS485, supports remote function",$112.13
+TE-16Y-R,"16 DO (Relay), DC 24V, RS485, supports remote function",$149.50
+TE-16Y-TN,"16 DO (Transistor NPN), DC 24V,  RS485, supports remote function",$149.50
+TE-16Y-TP,"16 DO (Transistor PNP), DC 24V,  RS485, supports remote function",$149.50
+TE-8X8Y-R,"8 DI, 8 DO (Relay), DC 24V, RS485, supports remote function",$137.04
+TE-8X8Y-TN,"8 DI, 8 DO (Transistor NPN), DC 24V, RS485, supports remote function",$137.04
+TE-8X8Y-TP,"8 DI, 8 DO (Transistor PNP), DC 24V, RS485, supports remote function",$137.04
+TE-24X,"24 DI, DC 24V, RS485, supports remote function",$149.50
+TE-24Xe,"24 DI, DC 24V, RS485, supports remote function, with Ethernet",$186.88
+TE-12X12Y-R,"12 DI 12 DO (Relay), DC 24V, RS485, supports remote function",$186.88
+TE-12X12Y-Re,"12 DI 12 DO (Relay), DC 24V, RS485, supports remote function, with Ethernet",$224.25
+TE-12X12Y-TN,"12 DI 12 DO (Transistor NPN), DC 24V, RS485, supports remote function",$186.88
+TE-12X12Y-TNe,"12 DI 12 DO (Transistor NPN), DC 24V, RS485, supports remote function, with Ethernet",$224.25
+TE-12X12Y-TP,"12 DI 12 DO (Transistor PNP), DC 24V, RS485, supports remote function",$186.88
+TE-12X12Y-TPe,"12 DI 12 DO (Transistor PNP), DC 24V, RS485, supports remote function, with Ethernet",$224.25
+TE-40X,"40 DI, DC 24V, RS485, supports remote function",$236.71
+TE-40Xe,"40 DI, DC 24V, RS485, supports remote function, with Ethernet",$274.09
+TE-36Y-R,"36 DO (Relay), DC 24V, RS485, supports remote function",$311.46
+TE-36Y-Re,"36 DO (Relay), DC 24V, RS485, supports remote function, with Ethernet",$348.84
+TE-36Y-TN,"36 DO (Transistor NPN), DC 24V, RS485, supports remote function",$311.46
+TE-36Y-TNe,"36 DO (Transistor NPN), DC 24V, RS485, supports remote function, with Ethernet",$348.84
+TE-36Y-TP,"36 DO (Transistor PNP), DC 24V, RS485, supports remote function",$311.46
+TE-36Y-TPe,"36 DO (Transistor PNP), DC 24V, RS485, supports remote function, with Ethernet",$348.84
+TE-20X20Y-R,"20 DI 20 DO (Relay), DC 24V, RS485, supports remote function",$274.09
+TE-20X20Y-Re,"20 DI 20 DO (Relay), DC 24V, RS485, supports remote function, with Ethernet",$311.46
+TE-20X20Y-TN,"20 DI 20 DO (Transistor NPN), DC 24V, RS485, supports remote function",$274.09
+TE-20X20Y-TNe,"20 DI 20 DO (Transistor NPN), DC 24V, RS485, supports remote function, with Ethernet",$311.46
+TE-20X20Y-TP,"20 DI 20 DO (Transistor PNP), DC 24V, RS485, supports remote function",$274.09
+TE-20X20Y-TPe,"20 DI 20 DO (Transistor PNP), DC 24V, RS485, supports remote function, with Ethernet",$311.46
+TE-32X32Y-R,"32 DI 32 DO (Relay), DC 24V, RS485, supports remote function",$460.96
+TE-32X32Y-Re,"32 DI 32 DO (Relay), DC 24V, RS485, supports remote function, with Ethernet",$498.34
+TE-32X32Y-TN,"32 DI 32 DO (Transistor NPN), DC 24V, RS485, supports remote function",$460.96
+TE-32X32Y-TNe,"32 DI 32 DO (Transistor NPN), DC 24V, RS485, supports remote function, with Ethernet",$498.34
+TE-32X32Y-TP,"32 DI 32 DO (Transistor PNP), DC 24V, RS485, supports remote function",$460.96
+TE-32X32Y-TPe,"32 DI 32 DO (Transistor PNP), DC 24V, RS485, supports remote function, with Ethernet",$498.34
+TE-4AD,"4 AI,12bit Conversion Accuracy, DC 24V, RS485, supports remote function",$199.34
+TE-4DA,"4 AO,12bit Conversion Accuracy, DC 24V, RS485, supports remote function",$199.34
+TE-2AD2DA,"2AI 2AO,12bit Conversion Accuracy, DC 24V, RS485, supports remote function",$199.34
+TE-8AD,"8 AI,12bit Conversion Accuracy, DC 24V, RS485, supports remote function",$323.92
+TE-8ADe,"8 AI,12bit Conversion Accuracy, DC 24V, RS485, supports remote function, with Ethernet",$361.30
+TE-8DA,"8 A0,12bit Conversion Accuracy, DC 24V, RS485, supports remote function",$323.92
+TE-8DAe,"8 A0,12bit Conversion Accuracy, DC 24V, RS485, supports remote function, with Ethernet",$361.30
+TE-4AD4DA,"4AI 4AO,12bit Conversion Accuracy, DC 24V, RS485, supports remote function",$323.92
+TE-4AD4DAe,"4AI 4AO,12bit Conversion Accuracy, DC 24V, RS485, supports remote function, with Ethernet",$361.30
+TE-32DT,"32 Channels DS18B20, RW1820 temperature sensor, Ds1990 sensor, 9-12bit Conversion Accuracy, DC 24V, RS485, supports remote function",$373.75
+TE-4TC,"4 thermal resistance, 16bit Conversion Accuracy, DC 24V, RS485, supports remote function",$199.34
+TE-4RC,"4 thermocouple, 16bit Conversion Accuracy, DC 24V, RS485, supports remote function",$199.34
+TE-8TC,"8 thermal resistance, 16bit Conversion Accuracy, DC 24V, RS485, supports remote function",$323.92
+TE-8RC,"8 thermocouple, 16bit Conversion Accuracy, DC 24V, RS485, supports remote function",$323.92
+TE-8RC-e,"8 thermocouple, 16bit Conversion Accuracy, DC 24V, RS485, supports remote function, with Ethernet",$361.30
+TE-1WG,"1 Channel weighing, 24bit Conversion Accuracy, DC 24V, RS485, supports remote function, with Ethernet",$224.25
